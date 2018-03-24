@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Terminator Vision</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\timot\Documents\Terminator Vision\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\timot\Documents\Terminator Vision\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

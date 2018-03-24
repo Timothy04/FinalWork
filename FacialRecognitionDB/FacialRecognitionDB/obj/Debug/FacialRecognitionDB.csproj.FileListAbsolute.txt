@@ -1,0 +1,12 @@
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\bin\Debug\FacialRecognitionDB.exe.config
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\bin\Debug\FacialRecognitionDB.exe
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\bin\Debug\FacialRecognitionDB.pdb
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\obj\Debug\FacialRecognitionDB.csprojResolveAssemblyReference.cache
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\obj\Debug\FacialRecognitionDB.Form1.resources
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\obj\Debug\FacialRecognitionDB.Properties.Resources.resources
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\obj\Debug\FacialRecognitionDB.csproj.GenerateResource.Cache
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\obj\Debug\FacialRecognitionDB.csproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\obj\Debug\FacialRecognitionDB.exe
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\obj\Debug\FacialRecognitionDB.pdb
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\bin\Debug\M2Mqtt.Net.dll
+C:\Users\timot\source\repos\FacialRecognitionDB\FacialRecognitionDB\bin\Debug\M2Mqtt.Net.pdb

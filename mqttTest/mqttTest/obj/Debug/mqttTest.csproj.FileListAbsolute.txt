@@ -1,0 +1,9 @@
+C:\Users\timot\source\repos\mqttTest\mqttTest\bin\Debug\mqttTest.exe.config
+C:\Users\timot\source\repos\mqttTest\mqttTest\bin\Debug\mqttTest.exe
+C:\Users\timot\source\repos\mqttTest\mqttTest\bin\Debug\mqttTest.pdb
+C:\Users\timot\source\repos\mqttTest\mqttTest\bin\Debug\M2Mqtt.Net.dll
+C:\Users\timot\source\repos\mqttTest\mqttTest\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\timot\source\repos\mqttTest\mqttTest\obj\Debug\mqttTest.csprojResolveAssemblyReference.cache
+C:\Users\timot\source\repos\mqttTest\mqttTest\obj\Debug\mqttTest.csproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\mqttTest\mqttTest\obj\Debug\mqttTest.exe
+C:\Users\timot\source\repos\mqttTest\mqttTest\obj\Debug\mqttTest.pdb

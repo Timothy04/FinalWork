@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminator Vision", "Terminator Vision.csproj", "{EDBF5332-B3FB-87B8-0F81-1124079C954D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminator Vision.Editor", "Terminator Vision.Editor.csproj", "{8FA875DF-00B8-AA24-683F-232CA4E87D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBF5332-B3FB-87B8-0F81-1124079C954D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBF5332-B3FB-87B8-0F81-1124079C954D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBF5332-B3FB-87B8-0F81-1124079C954D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBF5332-B3FB-87B8-0F81-1124079C954D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA875DF-00B8-AA24-683F-232CA4E87D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA875DF-00B8-AA24-683F-232CA4E87D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA875DF-00B8-AA24-683F-232CA4E87D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA875DF-00B8-AA24-683F-232CA4E87D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
